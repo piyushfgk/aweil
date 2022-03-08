@@ -3504,6 +3504,70 @@ button#btn-decrease, button#btn-orig, button#btn-increase {
     transition: opacity .2s ease;
     border-radius: 30px;
 }
+
+.blink::after {
+	padding: 3px;
+    border-radius: 50%;
+    font-size: smaller;
+    vertical-align: super;
+	margin-left: 3px;
+  -webkit-animation: 2s linear infinite condemned_blink_effect; /* for Safari 4.0 - 8.0 */
+  animation: 2s linear infinite condemned_blink_effect;
+}
+
+.blink-new::after{
+	content: "New";
+    background-color: dodgerblue;
+    color: white;
+}
+
+.blink-update::after{
+	content: "Update";
+    background-color: #f7d644;
+    color: red;
+}
+
+/* for Safari 4.0 - 8.0 */
+@-webkit-keyframes condemned_blink_effect {
+  0% {
+    visibility: hidden;
+  }
+  50% {
+    visibility: hidden;
+  }
+  100% {
+    visibility: visible;
+  }
+}
+
+@keyframes condemned_blink_effect {
+  0% {
+    visibility: hidden;
+  }
+  50% {
+    visibility: hidden;
+  }
+  100% {
+    visibility: visible;
+  }
+}
+
+.pl-1{
+	margin-left: 1px;
+}
+
+.pl-2{
+	margin-left: 2px;
+}
+
+.pl-3{
+	margin-left: 3px;
+}
+
+.pl-4{
+	margin-left: 4px;
+}
+
 @media only screen and (max-width: 767px) {
 .header .slicknav_nav li:last-child a a {
     background: #30466f00 !important;
