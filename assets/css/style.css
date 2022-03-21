@@ -3568,6 +3568,20 @@ button#btn-decrease, button#btn-orig, button#btn-increase {
 	margin-left: 4px;
 }
 
+#gstin .gstin-state{
+	display: flex;
+}
+
+#gstin .state{
+	width: 50%;
+	color: #fff;
+}
+
+#gstin .gst-no{
+	color: #fff;
+	margin-left: 5px;
+}
+
 @media only screen and (max-width: 767px) {
 .header .slicknav_nav li:last-child a a {
     background: #30466f00 !important;
