@@ -17,7 +17,7 @@
 		$('.home-slider').owlCarousel({
 			items:1,
 			autoplay:true,
-			autoplayTimeout:5000,
+			autoplayTimeout:10000,
 			smartSpeed: 400,
 			animateIn: 'fadeIn',
 			animateOut: 'fadeOut',

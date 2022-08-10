@@ -3332,7 +3332,9 @@ ul.tnslider li div.tabdescri span.tabdescri_close:hover {
 }
 /*---------------------------------------SLIDER[end]---------------------------------------*/
 
-
+.home-slider div.single-slider {
+	cursor: wait;
+}
 
 /*-[2]--------------------------------------OTHER STYLE[start]---------------------------------------*/
 
