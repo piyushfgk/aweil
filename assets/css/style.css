@@ -3525,8 +3525,9 @@ button#btn-decrease, button#btn-orig, button#btn-increase {
 
 .blink-update::after{
 	content: "Update";
-    background-color: #f7d644;
-    color: red;
+    background-color: red;
+	border: 1px solid yellow;
+	font-size: 0.5rem;
 }
 
 /* for Safari 4.0 - 8.0 */
