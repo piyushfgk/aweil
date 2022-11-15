@@ -1,6 +1,6 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
-
+ob_start(); // Fix for session and some other error when loading php.ini
 /*
 |--------------------------------------------------------------------------
 | Base Site URL
