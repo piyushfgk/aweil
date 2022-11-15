@@ -1,12 +1,12 @@
 .DS_Store
 
-application/cache/*
-!application/cache/index.html
+proapp/cache/*
+!proapp/cache/index.html
 
-application/logs/*
-!application/logs/index.html
+proapp/logs/*
+!proapp/logs/index.html
 
-!application/*/.htaccess
+!proapp/*/.htaccess
 
 composer.lock
 tests/mocks/database/ci_test.sqlite
