@@ -12,13 +12,28 @@ class MY_Controller extends CI_Controller
 	{
 		parent::__construct();
 
-        self::$_lang = $_REQUEST['lang'] ?? $this->session->userdata('lang');
+        // self::$_lang = $_REQUEST['lang'] ?? $this->session->userdata('lang');
+		$this->siteLanguage();
+		$this->setDefaultPageTitle();
 
-        if (in_array(self::$_lang, ['en','hi']) === false) self::$_lang = 'en';
+	}
 
-        $this->session->set_userdata('lang', self::$_lang);
+	protected function setDefaultPageTitle()
+	{
+		$this->data['page_title'] = "AWEIL";
+	}
 
-        $this->data['page_title'] = "AWEIL";
+	protected function siteLanguage()
+	{
+		$cookie_expire_days = 15;
+
+		self::$_lang = $_REQUEST['lang'] ?? get_cookie('sitelang');
+
+		if (in_array(self::$_lang, ['en','hi']) === false) self::$_lang = 'en';
+
+        // $this->session->set_userdata('lang', self::$_lang);
+		set_cookie('sitelang', self::$_lang, 3600 * 24 * $cookie_expire_days);
+
 	}
 
 	/**
