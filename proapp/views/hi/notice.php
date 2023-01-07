@@ -67,61 +67,22 @@
 								</tr>
 							</thead>
 							<tbody>
+                                <?php foreach ($downloads_arr as $key => $value):
+                                        $subject = 'sub_' . Main::$_lang;
+                                ?>
                                 <tr>
-                                    <td><strong>1</strong></td>
-                                    <td class="blink">चार्टर्ड एकाउंटेंट पद के लिए परिणाम: विज्ञापन। सं. AWEIL /02/2022</td>
+                                    <td><strong><?php echo $key + 1 ?></strong></td>
+                                    <td class="blink <?php if($value->blink) echo 'blink-new' ?>"><?php echo $value->$subject ?></td>
                                     <td class="text-left">
-                                        <p ><a class="pl-4" href="/download/recruitment/Result CA.pdf" target="__blank"><i class="fa fa-download"></i> डाउनलोड</a></p>
+                                        <?php foreach($value->links as $row):
+                                            $content = 'content_' . Main::$_lang;
+                                            $href = 'href_' . Main::$_lang;
+                                        ?>
+                                            <p ><a class="pl-4" href="<?php echo $row->$href ?>" target="__blank"><i class="fa fa-download"></i> <?php echo $row->$content ?></a></p>
+                                        <?php endforeach; ?>
                                     </td>
                                 </tr>
-                                <tr>
-                                    <td><strong>2</strong></td>
-                                    <td class="blink">AWEIL . में सतर्कता सेटअप</td>
-                                    <td class="text-left">
-                                        <p ><a class="pl-4" href="/download/Vigilance Setup in AWEIL.pdf" target="__blank"><i class="fa fa-download"></i> डाउनलोड</a></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td><strong>3</strong></td>
-                                    <td class="blink">AiDef - अवलोकन और नवाचार विचारों के लिए एआई परियोजनाओं का विवरण</td>
-                                    <td class="text-left">
-                                        <p ><a class="pl-4" href="/download/ai-2022.pdf" target="__blank"><i class="fa fa-download"></i> डाउनलोड</a></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td><strong>4</strong></td>
-                                    <td class="blink blink-new">अनुबंध पर चार्टर्ड एकाउंटेंट की आवश्यकता (विज्ञापन संख्या AWEIL/02/2022)</td>
-                                    <td class="text-left">
-                                        <p ><a class="pl-4" href="/download/recruitment/Form -POST-CA.pdf" target="__blank"><i class="fa fa-download"></i> आवेदन पत्र</a></p>
-                                        <p><a class="pl-4" href="/download/recruitment/CA terms and conditions - OCT 2022.pdf" target="__blank"><i class="fa fa-download"></i> नियम और शर्तें</a></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td><strong>5</strong></td>
-                                    <td class="">अनुबंध पर कंपनी सचिव की आवश्यकता (विज्ञापन संख्या AWEIL/02/2022)</td>
-                                    <td>
-                                        <!-- <p ><a class="pl-4" href="/download/recruitment/August_2022/CS form.pdf" target="__blank"><i class="fa fa-download"></i> Application Form</a></p>
-                                        <p><a class="pl-4" href="/download/recruitment/August_2022/CS terms and conditions - Aug 2022.pdf" target="__blank"><i class="fa fa-download"></i> Terms and conditions</a></p> -->
-                                        <p class="pl-4">दिनांक 21.09.2022 को आयोजित साक्षात्कार का परिणाम चयनित अभ्यर्थी का नाम -
-                                            <br>
-                                            <strong>1. श्री मनीष कुमार सिंह</strong>
-                                        </p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td><strong>6</strong></td>
-                                    <td class="blink blink-new">प्रबंधक की आवश्यकता - अनुबंध पर मानव संसाधन (विज्ञापन संख्या AWEIL/02/2022)</td>
-                                    <td class="text-left">
-                                        <p ><a class="pl-4" href="/download/recruitment/Form - Manager HR.pdf" target="__blank"><i class="fa fa-download"></i> आवेदन पत्र </a></p>
-                                        <p><a class="pl-4" href="/download/recruitment/HR Manager Terms and Conditions.pdf" target="__blank"><i class="fa fa-download"></i> नियम और शर्तें</a></p>
-                                    </td>
-                                    <!-- <td><strong>2</strong></td>
-                                    <td class="">Requirement of Company Secretary on Contract (Advt. No. AWEIL/01/2022)</td>
-                                    <td class="text-left">
-                                        <p ><a class="pl-4" href="/download/recruitment/Application Form AWEIL.pdf" target="__blank"><i class="fa fa-download"></i> Application Form</a></p>
-                                        <p><a class="pl-4" href="/download/recruitment/CS Appoitment terms and conditions.pdf" target="__blank"><i class="fa fa-download"></i> Terms and conditions</a></p>
-                                    </td> -->
-                                </tr>
+                                <?php endforeach; ?>
                             </tbody>
 						</table>
                     </div>

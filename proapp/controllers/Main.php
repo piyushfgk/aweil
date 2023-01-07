@@ -19,6 +19,13 @@ class Main extends MY_Controller {
 	 * @see https://codeigniter.com/userguide3/general/urls.html
 	 */
 
+	public function __construct()
+	{
+		parent::__construct();
+
+		$this->data['downloads_arr'] = $this->download_array();
+	}
+
 	public function index()
 	{
 		$this->page = 'home';

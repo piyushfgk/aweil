@@ -48,9 +48,9 @@
 					<div class="breaking-news bg-white">
 						<div class="news"><span class="d-flex align-items-center">&nbsp;Highlights</span></div>
 						<marquee class="news-scroll" behavior="scroll" direction="left" onmouseover="this.stop();" onmouseout="this.start();">
-							<span class="dot"></span> <a href="vigilance.html">Vigilance setup at AWEIL</a>
-							<span class="dot"></span> <a href="notice.html">Recruitment of Chartered Accountant</a>
-							<span class="dot"></span> <a href="notice.html">Recruitment of MANAGER - HR</a>
+							<span class="dot"></span> <a href="notice">Result for the post of Chartered Accountant</a>
+							<span class="dot"></span> <a href="notice">Recruitment of Chartered Accountant</a>
+							<span class="dot"></span> <a href="notice">Recruitment of MANAGER - HR</a>
 						</marquee>
 					</div>
 				</div>
