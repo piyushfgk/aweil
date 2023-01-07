@@ -69,20 +69,27 @@
 							<tbody>
                                 <tr>
                                     <td><strong>1</strong></td>
+                                    <td class="blink">चार्टर्ड एकाउंटेंट पद के लिए परिणाम: विज्ञापन। सं. AWEIL /02/2022</td>
+                                    <td class="text-left">
+                                        <p ><a class="pl-4" href="/download/recruitment/Result CA.pdf" target="__blank"><i class="fa fa-download"></i> डाउनलोड</a></p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td><strong>2</strong></td>
                                     <td class="blink">AWEIL . में सतर्कता सेटअप</td>
                                     <td class="text-left">
                                         <p ><a class="pl-4" href="/download/Vigilance Setup in AWEIL.pdf" target="__blank"><i class="fa fa-download"></i> डाउनलोड</a></p>
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td><strong>2</strong></td>
+                                    <td><strong>3</strong></td>
                                     <td class="blink">AiDef - अवलोकन और नवाचार विचारों के लिए एआई परियोजनाओं का विवरण</td>
                                     <td class="text-left">
                                         <p ><a class="pl-4" href="/download/ai-2022.pdf" target="__blank"><i class="fa fa-download"></i> डाउनलोड</a></p>
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td><strong>3</strong></td>
+                                    <td><strong>4</strong></td>
                                     <td class="blink blink-new">अनुबंध पर चार्टर्ड एकाउंटेंट की आवश्यकता (विज्ञापन संख्या AWEIL/02/2022)</td>
                                     <td class="text-left">
                                         <p ><a class="pl-4" href="/download/recruitment/Form -POST-CA.pdf" target="__blank"><i class="fa fa-download"></i> आवेदन पत्र</a></p>
@@ -90,7 +97,7 @@
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td><strong>4</strong></td>
+                                    <td><strong>5</strong></td>
                                     <td class="">अनुबंध पर कंपनी सचिव की आवश्यकता (विज्ञापन संख्या AWEIL/02/2022)</td>
                                     <td>
                                         <!-- <p ><a class="pl-4" href="/download/recruitment/August_2022/CS form.pdf" target="__blank"><i class="fa fa-download"></i> Application Form</a></p>
@@ -102,7 +109,7 @@
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td><strong>5</strong></td>
+                                    <td><strong>6</strong></td>
                                     <td class="blink blink-new">प्रबंधक की आवश्यकता - अनुबंध पर मानव संसाधन (विज्ञापन संख्या AWEIL/02/2022)</td>
                                     <td class="text-left">
                                         <p ><a class="pl-4" href="/download/recruitment/Form - Manager HR.pdf" target="__blank"><i class="fa fa-download"></i> आवेदन पत्र </a></p>
