@@ -57,10 +57,76 @@ class MY_Controller extends CI_Controller
 
 	public function download_array()
 	{
-		return array(
 
+		return array(
 			(object) array(
 				"blink" => true,
+				"sub_en" => "Application form for the post of Chartered Accountant March 2023",
+				"sub_hi" => "चार्टर्ड एकाउंटेंट मार्च 2023 के पद के लिए आवेदन पत्र",
+				"links" => array(
+					(object) array(
+						"content_en" => "Download", "href_en" => "/download/recruitment/March2023/Application Form March 2023.pdf",
+						"content_hi" => "डाउनलोड", "href_hi" => "/download/recruitment/March2023/Application Form March 2023.pdf"
+					),
+				),
+			),
+			(object) array(
+				"blink" => true,
+				"sub_en" => "Terms and conditions for the post of Chartered Accountant March 2023",
+				"sub_hi" => "चार्टर्ड अकाउंटेंट पद के लिए नियम व शर्तें मार्च 2023",
+				"links" => array(
+					(object) array(
+						"content_en" => "Download", "href_en" => "/download/recruitment/March2023/CA terms and conditions - MARCH 2023.pdf",
+						"content_hi" => "डाउनलोड", "href_hi" => "/download/recruitment/March2023/CA terms and conditions - MARCH 2023.pdf"
+					),
+				),
+			),
+			(object) array(
+				"blink" => true,
+				"sub_en" => "Terms and conditions for the post of Sr. Manager – HR March 2023",
+				"sub_hi" => "सीनियर मैनेजर के पद के लिए नियम व शर्तें - एचआर मार्च 2023",
+				"links" => array(
+					(object) array(
+						"content_en" => "Download", "href_en" => "/download/recruitment/March2023/Sr. HR Manager Terms and Conditions March 2023.pdf",
+						"content_hi" => "डाउनलोड", "href_hi" => "/download/recruitment/March2023/Sr. HR Manager Terms and Conditions March 2023.pdf"
+					),
+				),
+			),
+			(object) array(
+				"blink" => true,
+				"sub_en" => "Terms and conditions for the post of Sr. Manager – IT March 2023",
+				"sub_hi" => "वरिष्ठ प्रबंधक के पद के लिए नियम व शर्तें - आईटी मार्च 2023",
+				"links" => array(
+					(object) array(
+						"content_en" => "Download", "href_en" => "/download/recruitment/March2023/Sr. Manager IT Terms and Conditions March 2023.pdf",
+						"content_hi" => "डाउनलोड", "href_hi" => "/download/recruitment/March2023/Sr. Manager IT Terms and Conditions March 2023.pdf"
+					),
+				),
+			),
+			(object) array(
+				"blink" => true,
+				"sub_en" => "Terms and conditions for the post of Manager - HR March 2023",
+				"sub_hi" => "प्रबंधक के पद के लिए नियम व शर्तें - मानव संसाधन मार्च 2023",
+				"links" => array(
+					(object) array(
+						"content_en" => "Download", "href_en" => "/download/recruitment/March2023/HR Manager Terms and Conditions-March 2023.pdf",
+						"content_hi" => "डाउनलोड", "href_hi" => "/download/recruitment/March2023/HR Manager Terms and Conditions-March 2023.pdf"
+					),
+				),
+			),
+			(object) array(
+				"blink" => true,
+				"sub_en" => "Terms and conditions for the post of Assistant Manager – IT March 2023",
+				"sub_hi" => "सहायक प्रबंधक के पद के लिए नियम व शर्तें - आईटी मार्च 2023",
+				"links" => array(
+					(object) array(
+						"content_en" => "Download", "href_en" => "/download/recruitment/March2023/Assistant Manager IT Terms and Conditions March 2023.pdf",
+						"content_hi" => "डाउनलोड", "href_hi" => "/download/recruitment/March2023/Assistant Manager IT Terms and Conditions March 2023.pdf"
+					),
+				),
+			),
+			(object) array(
+				"blink" => false,
 				"sub_en" => "Result for the post of Chartered Accountant Ref : Advt. No. AWEIL /02/2022",
 				"sub_hi" => "चार्टर्ड एकाउंटेंट पद के लिए परिणाम: विज्ञापन। सं. AWEIL /02/2022",
 				"links" => array(
