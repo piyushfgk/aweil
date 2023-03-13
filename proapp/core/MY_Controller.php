@@ -61,8 +61,8 @@ class MY_Controller extends CI_Controller
 		return array(
 			(object) array(
 				"blink" => true,
-				"sub_en" => "Application form for the post of Chartered Accountant March 2023",
-				"sub_hi" => "चार्टर्ड एकाउंटेंट मार्च 2023 के पद के लिए आवेदन पत्र",
+				"sub_en" => "Common application form for various posts March 2023",
+				"sub_hi" => "विभिन्न पदों के लिए सामान्य आवेदन पत्र मार्च 2023",
 				"links" => array(
 					(object) array(
 						"content_en" => "Download", "href_en" => "/download/recruitment/March2023/Application Form March 2023.pdf",
