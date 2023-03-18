@@ -61,6 +61,17 @@ class MY_Controller extends CI_Controller
 		return array(
 			(object) array(
 				"blink" => true,
+				"sub_en" => "Result for the post of MANAGER/HR on contractual basis, held on 16th Jan 2023",
+				"sub_hi" => "प्रबंधक/एचआर अनुबंध के आधार पर पद के लिए, 16 जनवरी 2023 को आयोजित परिणाम ",
+				"links" => array(
+					(object) array(
+						"content_en" => "Download", "href_en" => "/download/recruitment/results/HR Result - Feb 2022.pdf",
+						"content_hi" => "डाउनलोड", "href_hi" => "/download/recruitment/results/HR Result - Feb 2022.pdf"
+					),
+				),
+			),
+			(object) array(
+				"blink" => true,
 				"sub_en" => "Common application form for various posts March 2023",
 				"sub_hi" => "विभिन्न पदों के लिए सामान्य आवेदन पत्र मार्च 2023",
 				"links" => array(

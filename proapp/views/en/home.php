@@ -48,7 +48,7 @@
 					<div class="breaking-news bg-white">
 						<div class="news"><span class="d-flex align-items-center">&nbsp;Highlights</span></div>
 						<marquee class="news-scroll" behavior="scroll" direction="left" onmouseover="this.stop();" onmouseout="this.start();">
-							<span class="dot"></span> <a href="notice">Recruitment for the post of Chartered Accountant, Sr. Manager – HR,  Sr. Manager – IT, Manager - HR & Assistant Manager – IT</a>
+							<span class="dot"></span> <a href="notice">Result for the post of MANAGER/HR, Recruitment for the post of Chartered Accountant, Sr. Manager – HR,  Sr. Manager – IT, Manager - HR & Assistant Manager – IT</a>
 						</marquee>
 					</div>
 				</div>

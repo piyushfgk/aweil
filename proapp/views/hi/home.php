@@ -48,9 +48,7 @@
 					<div class="breaking-news bg-white">
 						<div class="news"><span class="d-flex align-items-center">&nbsp;हाईलाइट</span></div>
 						<marquee class="news-scroll" behavior="scroll" direction="left" onmouseover="this.stop();" onmouseout="this.start();">
-							<span class="dot"></span> <a href="notice">चार्टर्ड एकाउंटेंट पद के लिए परिणाम</a>
-							<span class="dot"></span> <a href="notice">चार्टर्ड एकाउंटेंट की भर्ती</a>
-							<span class="dot"></span> <a href="notice">प्रबंधक - मानव संसाधन की भर्ती</a>
+						<span class="dot"></span> <a href="notice">प्रबंधक/एचआर के पद के लिए परिणाम, चार्टर्ड अकाउंटेंट के पद के लिए भर्ती, सीनियर मैनेजर एचआर, सीनियर मैनेजर आईटी, मैनेजर एचआर और सहायक प्रबंधक आईटी</a>
 						</marquee>
 					</div>
 				</div>
