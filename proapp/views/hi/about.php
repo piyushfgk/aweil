@@ -172,7 +172,7 @@
 							<div class="team-head">
 								<img src="/assets/img/gm-photo.jpg" alt="#">
 								<div class="t-name">
-									<span class="title">निर्देशक/संचालन</span>
+									<span class="title">निदेशक/संचालन</span>
 									<h4 class="name">श्री ए के मौर्य</h4>
 									<h5 class="name"><a href="mailto:dir-op@aweil.in">dir-op@aweil.in</a></h5>
 								</div>
@@ -188,10 +188,10 @@
 						<!-- Single Team -->
 						<div class="single-team">
 							<div class="team-head">
-								<img src="/assets/img/smt-anupma-tripathi.jpg" alt="#">
+								<img src="/assets/img/DIR HR.JPG" alt="#">
 								<div class="t-name">
-									<span class="title">निर्देशक/मानवीय संसाधन</span>
-									<h4 class="name">श्रीमती अनुपमा त्रिपाठी</h4>
+									<span class="title">निदेशक/एचआर</span>
+									<h4 class="name">श्री बिस्वजीत प्रधान</h4>
 									<h5 class="name"><a href="mailto:dir-hr@aweil.in">dir-hr@aweil.in</a></h5>
 								</div>
 								<ul class="social">
@@ -206,10 +206,10 @@
 						<!-- Single Team -->
 						<div class="single-team">
 							<div class="team-head">
-								<img src="/assets/img/Ravin-Kulshrestha.jpg" alt="#">
+								<img src="/assets/img/Dir Fin AWEIL.jpeg" alt="#">
 								<div class="t-name">
-									<span class="title">निर्देशक/वित्त</span>
-									<h4 class="name">श्री रविन कुलश्रेष्ठ</h4><h5 class="name"><a href="mailto:dir-fin@aweil.in">dir-fin@aweil.in</a></h5>
+									<span class="title">निदेशक/वित्त</span>
+									<h4 class="name">श्री सुशील सिन्हा</h4><h5 class="name"><a href="mailto:dir-fin@aweil.in">dir-fin@aweil.in</a></h5>
 								</div>
 								<ul class="social">
 									<li><a href="javascript:void(0);"><i class="fab fa-facebook-f"></i></a></li>

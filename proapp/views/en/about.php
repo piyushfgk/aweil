@@ -207,10 +207,10 @@
 						<!-- Single Team -->
 						<div class="single-team">
 							<div class="team-head">
-								<img src="/assets/img/smt-anupma-tripathi.jpg" alt="#">
+								<img src="/assets/img/DIR HR.JPG" alt="Director HR">
 								<div class="t-name">
 									<span class="title">DIR/HR</span>
-									<h4 class="name">Mrs. Anupama Tripathi</h4>
+									<h4 class="name">Mr. Biswajit Pradhan</h4>
 									<h5 class="name"><a href="mailto:dir-hr@aweil.in">dir-hr@aweil.in</a></h5>
 								</div>
 								<ul class="social">
@@ -225,10 +225,10 @@
 						<!-- Single Team -->
 						<div class="single-team">
 							<div class="team-head">
-								<img src="/assets/img/Ravin-Kulshrestha.jpg" alt="#">
+								<img src="/assets/img/Dir Fin AWEIL.jpeg" alt="Director Finance">
 								<div class="t-name">
-									<span class="title">DIR/FIN </span>
-									<h4 class="name">Mr. Ravin Kulshrestha</h4><h5 class="name"><a href="mailto:dir-fin@aweil.in">dir-fin@aweil.in</a></h5>
+									<span class="title">DIR/FIN</span>
+									<h4 class="name">Mr. Sushil Sinha</h4><h5 class="name"><a href="mailto:dir-fin@aweil.in">dir-fin@aweil.in</a></h5>
 								</div>
 								<ul class="social">
 									<li><a href="javascript:void(0);"><i class="fab fa-facebook-f"></i></a></li>
