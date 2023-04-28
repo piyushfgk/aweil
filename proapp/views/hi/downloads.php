@@ -79,13 +79,13 @@
                         </tr>
                         <tr>
                         	<td>3</td>
-                        	<td><a href="/download/Revolver Form Dealer FGK.pdf" target="_blank">डीलर रिवॉल्वर फॉर्म - FGK</a></td>
-                        	<td>31/अक्टूबर/2022</td>
+                        	<td><a href="/download/Revolver Form Dealer FGK.pdf" target="_blank">डीलर रिवॉल्वर फॉर्म - एफ0जी0के0</a></td>
+                        	<td>28/अप्रैल/2023</td>
                         </tr>
                         <tr>
                         	<td>4</td>
-                        	<td><a href="/download/Revolver Form Customer FGK.pdf" target="_blank">ग्राहक रिवॉल्वर प्रपत्र - FGK</a></td>
-                        	<td>31/अक्टूबर/2022</td>
+                        	<td><a href="/download/Revolver Form Customer FGK.pdf" target="_blank">ग्राहक रिवॉल्वर प्रपत्र - एफ0जी0के0</a></td>
+                        	<td>28/अप्रैल/2023</td>
                         </tr>
                         <tr>
                         	<td>5</td>
