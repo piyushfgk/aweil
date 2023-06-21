@@ -155,15 +155,38 @@
 									<h4 class="name">श्री राजेश चौधरी</h4>
 									<h5 class="name"><a href="mailto:cmd@aweil.in">cmd@aweil.in</a></h5>
 								</div>
-								<ul class="social">
+								<!-- <ul class="social">
 									<li><a href="javascript:void(0);"><i class="fab fa-facebook-f"></i></a></li>
 									<li><a href="javascript:void(0);"><i class="fab fa-twitter"></i></a></li>
-								</ul>
+								</ul> -->
 							</div>
 						</div>
 						<!--/ End Single Team -->
 						</div>
 						<div class="col-md-4 col-sm-12 col-xs-12"></div>
+					</div>
+					<div class="row mt-b3">
+						<div class="col-md-4 col-sm-12 col-xs-12"></div>
+						<div class="col-md-4 col-sm-12 col-xs-12">
+							<!-- Single Team -->
+							<div class="single-team">
+								<div class="team-head">
+									<img src="/assets/img/Jayant-Kumar.jpg" alt="#">
+									<div class="t-name">
+										<span class="title">सरकार द्वारा नामित निदेशक</span>
+										<h4 class="name">श्री जयंत कुमार</h4>
+										<h5 class="name"><a href="mailto:jsaero.ddp-mod@gov.in">jsaero.ddp-mod@gov.in</a></h5>
+									</div>
+									<!-- <ul class="social">
+										<li><a href="javascript:void(0);"><i class="fab fa-facebook-f"></i></a></li>
+										<li><a href="javascript:void(0);"><i class="fab fa-twitter"></i></a></li>
+									</ul> -->
+								</div>
+							</div>
+							<!--/ End Single Team -->
+							</div>
+							<div class="col-md-4 col-sm-12 col-xs-12"></div>
+						</div>
 					</div>
 					<div class="row">
 					<div class="col-md-4 col-sm-12 col-xs-12">
@@ -176,10 +199,10 @@
 									<h4 class="name">श्री ए के मौर्य</h4>
 									<h5 class="name"><a href="mailto:dir-op@aweil.in">dir-op@aweil.in</a></h5>
 								</div>
-								<ul class="social">
+								<!-- <ul class="social">
 									<li><a href="javascript:void(0);"><i class="fab fa-facebook-f"></i></a></li>
 									<li><a href="javascript:void(0);"><i class="fab fa-twitter"></i></a></li>
-								</ul>
+								</ul> -->
 							</div>
 						</div>
 						<!--/ End Single Team -->
@@ -194,10 +217,10 @@
 									<h4 class="name">श्री बिस्वजीत प्रधान</h4>
 									<h5 class="name"><a href="mailto:dir-hr@aweil.in">dir-hr@aweil.in</a></h5>
 								</div>
-								<ul class="social">
+								<!-- <ul class="social">
 									<li><a href="javascript:void(0);"><i class="fab fa-facebook-f"></i></a></li>
 									<li><a href="javascript:void(0);"><i class="fab fa-twitter"></i></a></li>
-								</ul>
+								</ul> -->
 							</div>
 						</div>
 						<!--/ End Single Team -->
@@ -211,10 +234,10 @@
 									<span class="title">निदेशक/वित्त</span>
 									<h4 class="name">श्री सुशील सिन्हा</h4><h5 class="name"><a href="mailto:dir-fin@aweil.in">dir-fin@aweil.in</a></h5>
 								</div>
-								<ul class="social">
+								<!-- <ul class="social">
 									<li><a href="javascript:void(0);"><i class="fab fa-facebook-f"></i></a></li>
 									<li><a href="javascript:void(0);"><i class="fab fa-twitter"></i></a></li>
-								</ul>
+								</ul> -->
 							</div>
 						</div>
 						<!--/ End Single Team -->
