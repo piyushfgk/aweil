@@ -15,7 +15,7 @@
 								<li><a href="/tender">Tenders</a></li>
 								<li><a href="/terms">Terms Of Use</a></li>
 								<li><a href="/contact">Contact Us</a></li>
-								<li><a href="/downloads">Downloads</a></li>
+								<li><a href="/downloads">Downloads</a><span class="blink blink-new"></span></li>
 								<li><img src="/assets/img/government-of-india-make-in-india-ministry-of-defence-defence-industry-of-india1.png" alt="make in india"></li>
 							</ul>
                         </div>

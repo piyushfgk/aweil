@@ -60,40 +60,44 @@
                         <tbody><tr>
                         	<th>क्रम संख्या</th>
                         	<th>विवरण</th>
-                        	<th>अपडेट तिथि</th>
+                        	<th>अपलोड तिथि</th>
                         </tr>
-                        <!-- <tr>
-                        	<td>0</td>
-                        	<td><a href="/download/Revolver Rates FGK Year May 2022.pdf" target="_blank">Revolver Rates (June 2022)</a></td>
-                        	<td>30/May/2022</td>
-                        </tr> -->
+						<tr>
+							<td>1</td>
+							<td>
+								<a href="/download/Annual Return 2021-22.pdf" target="_blank">वार्षिक रिपोर्ट 2021-22 भाग 1</a>
+								<br>
+								<a href="/download/Annual Report 2021-22 Handbook.pdf" target="_blank">वार्षिक रिपोर्ट 2021-22 भाग 2 </a>
+							</td>
+							<td>21/जून/2023</td>
+						</tr>
                         <tr>
-                        	<td>1</td>
+                        	<td>2</td>
                         	<td><a href="/download/ai-2022.pdf" target="_blank">AiDef - अवलोकन और नवाचार विचारों के लिए एआई परियोजनाओं का विवरण</a></td>
                         	<td>09/सितंबर/2022</td>
                         </tr>
                         <tr>
-                        	<td>2</td>
+                        	<td>3</td>
                         	<td><a href="/download/AWEIL Creation of Buisness Development Unit  31-Jan-2022.pdf" target="_blank">व्यवसाय विकास इकाई (बीडीयू) का निर्माण</a></td>
                         	<td>31/जनवरी/2022</td>
                         </tr>
                         <tr>
-                        	<td>3</td>
+                        	<td>4</td>
                         	<td><a href="/download/Revolver Form Dealer FGK.pdf" target="_blank">डीलर रिवॉल्वर फॉर्म - एफ0जी0के0</a></td>
                         	<td>28/अप्रैल/2023</td>
                         </tr>
                         <tr>
-                        	<td>4</td>
+                        	<td>5</td>
                         	<td><a href="/download/Revolver Form Customer FGK.pdf" target="_blank">ग्राहक रिवॉल्वर प्रपत्र - एफ0जी0के0</a></td>
                         	<td>28/अप्रैल/2023</td>
                         </tr>
                         <tr>
-                        	<td>5</td>
+                        	<td>6</td>
                         	<td><a href="/download/saf/revolver/Application Form for dealers.pdf" target="_blank">डीलर रिवॉल्वर फॉर्म - SAF</a></td>
                         	<td>03/मई/2023</td>
                         </tr>
                         <tr>
-                        	<td>6</td>
+                        	<td>7</td>
                         	<td><a href="/download/saf/revolver/Application Form for customers.pdf" target="_blank">ग्राहक रिवॉल्वर फॉर्म - SAF</a></td>
                         	<td>03/मई/2023</td>
                         </tr>
