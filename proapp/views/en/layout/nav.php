@@ -16,8 +16,9 @@
                                 <li><a href="#">RTI</a>
                                     <ul class="dropdown">
                                         <li><a href="https://rti.gov.in/rtiact.asp">RTI Act</a></li>
-                                        <li><a href="/manuals-standard">Manuals and Standard </a></li>
-                                        <li><a href="/operat-proced">Operating Procedures</a></li>
+                                        <li><a href="/rti/manuals-standard">Manuals and Standard </a></li>
+                                        <li><a href="/rti/operat-proced">Operating Procedures</a></li>
+										<li><a href="/rti/pio-details">PIOs Details (Contact)</a></li>
                                     </ul>
                                 </li>
                                 <li><a href="/vigilance">Vigilance <span class="blink blink-new"></span></a></li>

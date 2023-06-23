@@ -133,7 +133,7 @@ class Main extends MY_Controller {
 
 	public function manuals_standard()
 	{
-		$this->page = 'manuals_standard';
+		$this->page = 'rti/manuals_standard';
 		$this->data['page_title'] = 'AWEIL::Manual Standards';
 
 		$this->siteLayout();
@@ -141,7 +141,7 @@ class Main extends MY_Controller {
 
 	public function operat_proced()
 	{
-		$this->page = 'operat_proced';
+		$this->page = 'rti/operat_proced';
 		$this->data['page_title'] = 'AWEIL::Operating Procedures';
 
 		$this->siteLayout();
@@ -151,6 +151,14 @@ class Main extends MY_Controller {
 	{
 		$this->page = 'cmd_message';
 		$this->data['page_title'] = 'AWEIL::CMD Message';
+
+		$this->siteLayout();
+	}
+
+	public function rti_pio_details()
+	{
+		$this->page = 'rti/pio_details';
+		$this->data['page_title'] = 'AWEIL RTI::PIO Details';
 
 		$this->siteLayout();
 	}
