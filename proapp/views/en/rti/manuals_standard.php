@@ -8,7 +8,7 @@
                         <h2>Manuals and Standard</h2>
                         <ul class="bread-list">
                             <li><a href="/">Home<i class="fas fa-chevron-right"></i></a></li>
-                            <li class="active"><a href="rti/manuals-standard.html">Manuals and Standard</a></li>
+                            <li class="active"><a href="manuals-standard">Manuals and Standard</a></li>
                         </ul>
                     </div>
                 </div>

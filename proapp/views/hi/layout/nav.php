@@ -16,8 +16,9 @@
                                 <li><a href="#">सूचना का अधिकार</a>
                                     <ul class="dropdown">
                                         <li><a href="https://rti.gov.in/rtiact.asp">आरटीआई अधिनियम</a></li>
-                                        <li><a href="/manuals-standard">निमावली और मानक</a></li>
-                                        <li><a href="/operat-proced">संचालन प्रक्रियाएं</a></li>
+                                        <!-- <li><a href="/manuals-standard">निमावली और मानक</a></li>
+                                        <li><a href="/operat-proced">संचालन प्रक्रियाएं</a></li> -->
+										<li><a href="/rti/pio-details">पीआईओ विवरण (संपर्क)</a></li>
                                     </ul>
                                 </li>
                                 <li><a href="/vigilance">जागरूकता <span class="blink blink-new"></span></a></li>
