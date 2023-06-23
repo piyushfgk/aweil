@@ -41,7 +41,7 @@
                         <h2>पीआईओ विवरण</h2>
                         <ul class="bread-list">
                             <li><a href="/">Home<i class="fas fa-chevron-right"></i></a></li>
-                            <li class="active"><a href="/pio-details">पीआईओ विवरण</a></li>
+                            <li class="active"><a href="pio-details">पीआईओ विवरण</a></li>
                         </ul>
                     </div>
                 </div>
