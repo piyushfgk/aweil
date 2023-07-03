@@ -84,6 +84,9 @@
 										</div>
 									</section>
                                 </div>
+								<div class="single-contact website-update-time">
+									<p>आखिरी अपडेट: <?php echo date("d M Y, H:m:i", $website_last_update_datetime) . " Hrs." ?> </p>
+								</div>
                             </div>
                             <!-- Social -->
                             <ul class="social">

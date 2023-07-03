@@ -6,6 +6,7 @@ class MY_Controller extends CI_Controller
 {
 	public $template = array();
 	public $data = array();
+	public $page = "";
     public static $_lang = 'en';
 
 	public function __construct()
@@ -16,6 +17,10 @@ class MY_Controller extends CI_Controller
 		$this->siteLanguage();
 		$this->setDefaultPageTitle();
 
+		$directoryPath = 'proapp';
+		$lastUpdatedFileInfo = getLastUpdatedFileInfo($directoryPath);
+
+		$this->data['website_last_update_datetime'] = $lastUpdatedFileInfo['last_updated'];
 	}
 
 	protected function setDefaultPageTitle()

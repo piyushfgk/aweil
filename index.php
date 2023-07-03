@@ -54,6 +54,9 @@
  * NOTE: If you change these, also change the error_reporting() code below
  */
 
+// Set the timezone
+date_default_timezone_set('Asia/Kolkata');
+
 ob_start(); // Fix for session and some other error when loading php.ini
 	define('ENVIRONMENT', isset($_SERVER['CI_ENV']) ? $_SERVER['CI_ENV'] : 'development');
 
