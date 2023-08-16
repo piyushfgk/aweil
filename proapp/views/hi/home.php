@@ -7,11 +7,11 @@
 
 			<!-- <div class="single-slider" style="background-image:url('assets/img/slider/yoga-logo-slogan.jpg')">
 			</div> -->
-			<div class="single-slider" style="background-image:url('assets/img/slider/har-ghar-tiranga-web-banner-download-section-english-version.jpg')">
+			<div class="single-slider" style="background-image:url('assets/img/slider/Har-Ghar-Tiranga_Web-banner.jpg')">
 			</div>
 
-			<!-- <div class="single-slider" style="background-image:url('assets/img/slider/img2.jpg')">
-			</div> -->
+			<div class="single-slider" style="background-image:url('assets/img/slider/hgt_en_banner.jpg')">
+			</div>
 			<!--/ End Single Slider -->
 			<!-- Single Slider -->
 			<div class="single-slider" style="background-image:url('assets/img/slider/slider-bg3.jpg')">
