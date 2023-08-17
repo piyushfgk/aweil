@@ -252,7 +252,7 @@
 							</div>
 							<p><b>Dhanush</b></p>
 						</div>
-						<div class="col-md-3 col-sm-6 col-xs-12">
+						<!-- <div class="col-md-3 col-sm-6 col-xs-12">
 							<div class="about-img overlay">
 								<div class="button">
 									<a href="/assets/img/prd/systems-platform/105-Vehicle-Mounted-Gun-(VM.jpg" title='105 Vehicle Mounted Gun (VMG)' class="video popup"><i class="fa fa-search-plus"></i></a>
@@ -260,7 +260,7 @@
 								<img src="/assets/img/prd/systems-platform/105-Vehicle-Mounted-Gun-(VM.jpg" alt="#">
 							</div>
 							<p><b>105 Vehicle Mounted Gun (VMG)</b></p>
-						</div>
+						</div> -->
                     </div>
                 </div>
             </div>
