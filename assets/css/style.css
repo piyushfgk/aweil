@@ -3139,6 +3139,9 @@ a,button{
 	left: 0;
 	top: 5px;
 }
+.footer .single-contact.unit-contact p{
+	margin-bottom: 2px !important;
+}
 .footer .f-contact p{
 	color:#fff;
 }
