@@ -29,10 +29,13 @@
 				</div>
 				<div class="row">
 					<div class="col-md-4 col-sm-4 col-xs-12">
-						<div class="single-info">
+						<div class="single-info unit-contact">
 							<i class="fas fa-phone"></i>
 							<h4 class="title">Call us Now:</h4>
-							<p>0512 - 297 9938</p>
+							<p><strong>HQ.:</strong> 0512 - 297 9938</p>
+							<p><strong>OFC:</strong> 0512 - 221 5533</p>
+							<p><strong>SAF:</strong> 0512 - 297 7820, 229 6238</p>
+							<p><strong>FGK:</strong> 0512 - 229 8311</p>
 						</div>
 					</div>
 					<div class="col-md-4 col-sm-4 col-xs-12">

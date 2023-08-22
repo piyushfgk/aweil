@@ -50,10 +50,12 @@
                                     <p>ओएफसी, कालपी रोड, कानपुर - 208009</p>
                                 </div>
                                 <!-- Single Contact -->
-                                <div class="single-contact">
+                                <div class="single-contact unit-contact">
                                     <i class="fas fa-phone"></i>
-                                    <p>0512 - 297 9938</p>
-
+									<p>HQ.: 0512 - 297 9938</p>
+									<p>OFC: 0512 - 221 5533</p>
+									<p>SAF: 0512 - 297 7820, 229 6238</p>
+									<p>FGK: 0512 - 229 8311</p>
                                 </div>
                                 <!-- Single Contact -->
                                 <div class="single-contact">

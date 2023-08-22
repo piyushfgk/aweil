@@ -53,7 +53,7 @@
 	<!-- Normalize CSS -->
 	<link rel="stylesheet" href="/assets/css/normalize.css">
 	<!-- Style CSS -->
-	<link rel="stylesheet" href="/assets/css/style.css?v=1">
+	<link rel="stylesheet" href="/assets/css/style.css?v=1.1">
 	<!-- Responsive CSS -->
 	<link rel="stylesheet" href="/assets/css/responsive.css">
 	<style>.social li {display: inline-block;margin-right: 10px;}.blue{background: #30466f; color: #fff; border-radius: 3px; display: inline-block;}.clients .single-clients img {height: 85px; width: auto;margin: 0 auto;}.clients .single-clients {padding: 30px; text-align: center;font-family: 'Bebas Neue', cursive;font-size: 1.7rem;color: #30466F;text-transform: capitalize;}.hero-slider .single-slider:before {background: #004fe100;
